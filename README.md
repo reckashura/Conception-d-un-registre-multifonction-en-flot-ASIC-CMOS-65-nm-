@@ -1,0 +1,2 @@
+# Conception-d-un-registre-multifonction-en-flot-ASIC-CMOS-65-nm-
+Réalisation du flot de conception numérique complet RTL-to-GDS d’un registre synchrone 4 bits : description VHDL synthétisable, synthèse logique, simulations post-synthèse et post-placement avec annotation des délais, puis placement-routage et vérificationssous Cadence Innovus. Analyse des rapports de surface, de puissance et de timing.
